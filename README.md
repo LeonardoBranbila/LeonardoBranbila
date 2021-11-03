@@ -1,7 +1,4 @@
-### Oláá! Me chamo Leonardo Branbila
-
-- 🔭 Atualmente trabalhando como analista de suporte
-- 📚 Estudando C# e ambiente Windows
+## Olá! Me chamo Leonardo Branbila
 
 <div align="center">
   <a href="https://github.com/LeonardoBranbila">
