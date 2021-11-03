@@ -1,4 +1,4 @@
-## Opaa! Leonardo Branbila aqui, sejam bem vindos!
+## Opaa! Leonardo Branbila aqui, sejam bem-vindos!
 
 <div align="center">
   <a href="https://github.com/LeonardoBranbila">
