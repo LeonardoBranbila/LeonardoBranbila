@@ -14,7 +14,8 @@
   <img align="center" alt="Leo-Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg">
   <img align="center" alt="Leo-numpy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-plain.svg">
   <img align="center" alt="Leo-matplot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-plain.svg">
-  <img align="center" alt="Leo-scikit" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-line.svg">
+  <img align="center" alt="Leo-scikit" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg
+">
 </div>
   
   ##
