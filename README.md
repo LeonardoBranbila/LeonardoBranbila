@@ -20,9 +20,9 @@
   ##
   
 <div> 
-  <img height="28" width="100" src="https://komarev.com/ghpvc/?username=LeonardoBranbila&color=blueviolet&style=flat-square">
+  <img height="28" width="100" src="https://komarev.com/ghpvc/?username=LeonardoBranbila&color=blueviolet&style=flat">
   <a href = "mailto:branbila.leo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leobranbila/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leobranbila/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>
  
 </div>
 
